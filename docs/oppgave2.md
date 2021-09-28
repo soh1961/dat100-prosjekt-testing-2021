@@ -1,6 +1,6 @@
 ## Oppgave 2: Implementasjon av Bord, Spiller og Spill-klassene
 
-Andre oppgaven er å implementere metodene i klassene `Bord`, `Spiller` og `Spill` i kontroll-delen av applikasjonen som finnes pakken `no.hvl.dat100.prosjekt.kontroll`.
+Andre oppgaven er å implementere metodene i klassene `Bord`, `Spiller` og `Spill` i kontroll-delen av applikasjonen som finnes i pakken `no.hvl.dat100.prosjekt.kontroll`.
 
 For å representere identiteten på spillere finnes oppramsklassen `Spillere.java`.
 
@@ -18,7 +18,7 @@ Metodene i klassen `Spiller` som skal brukes til å representere en spiller i sp
 
 Hva de ulike metodene skal gjøre er beskrevet i Java Doc for klassen `Spiller.java` samt Java Doc for interfacet `ISpiller.java`.
 
-Interfacet (kontakten) `ISpiller.java` beskriver de mulige operasjoner på en `Spiller`. Vi har ennå kommer til interfaces i faget. Men kort fortalt kan et interface kan brukes til å spesifisere hvilke metoder som skal finnes/implementeres av en klasse.
+Interfacet (kontrakten) `ISpiller.java` beskriver de mulige operasjoner på en `Spiller`. Vi har ennå kommer til interfaces i faget. Men kort fortalt kan et interface brukes til å spesifisere hvilke metoder som skal finnes/implementeres av en klasse.
 
 Test implementasjonen ved bruk av enhets-testene for klassen som finnes i test-klassen `TestSpiller` i pakken `no.hvl.dat100.prosjekt.kontroll.tester`.
 
