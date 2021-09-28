@@ -41,7 +41,7 @@ https://github.com/dat100hib/dat100-prosjekt-testing-2021/blob/master/docs/intro
 
 ## Startkode og enhetstester
 
-Første steg for å komme igang med programmeringen er å laste ned et Eclipse-prosjekt med startkode og et Eclipse-prosjekt med enhetstester importere disse.
+Første steg for å komme igang med programmeringen er å laste ned et Eclipse-prosjekt med startkode og et Eclipse-prosjekt med enhetstester og importere disse.
 
 Dette kan gjøres som beskrevet her: https://github.com/dat100hib/dat100-prosjekt-testing-2021/blob/master/docs/startkode.md
 
