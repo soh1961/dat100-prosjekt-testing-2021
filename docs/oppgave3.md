@@ -18,4 +18,4 @@ Implementasjonen av strategien kan testes først ved bruk av enhets-testen for `
 
 Om dette er implementert korrekt kan man trykke på *Play* knappen i spillet og så vil *Syd* spille automatisk med *Nord* utefra deres strategier. Trykkes på ikonet til *Syd* spilleren vil grensesnitt fremheve det kort som Syd sin strategi foreslår.
 
-Applikasjonen har en implementasjon av en dommer (klassen `Dommer.java`) som sjekker at de handlinger som strategien for spillerne foreslår er lovlig i vri-åtter før de utføres. Loggen i Eclipse vil vise om en spiller forsøker å gjøre en ulovlig handling (se etter ordet **WARNING**).
+Applikasjonen har en implementasjon av en dommer (klassen `Dommer.java`) som sjekker at de handlinger som strategien for spillerne foreslår er lovlig i vri-åtter før de utføres. Loggen i Eclipse (konsollvinduet) vil vise om en spiller forsøker å gjøre en ulovlig handling (se etter ordet **WARNING**).
