@@ -4,7 +4,7 @@ Selv for et såpass enkelt spill som vri-åtter kan det utvikles mange strategie
 
 ### Oppgave 3.1 - Random-strategien
 
-I prosjektet finnes allerede en implementasjon (`NordSpiller.java`) av en strategi i metoden `nesteHandling` som finner ut hvilken handling som *Nord* skal gjøre som det neste (når det er *Nord* sin tur).
+I prosjektet finnes allerede en implementasjon (`NordSpiller.java`) av en strategi i metoden `nesteHandling` som finner ut hvilken handling som *Nord* skal gjøre som sin neste (når det er *Nord* sin tur).
 
 Strategien for *Nord* er å gå gjennom alle kortene som nord har på hånden og se hvilke som er lovlig å spille. Deretter trekker nord et tilfeldig (random) som spilles. Det betyr at vi ikke tar hensyn til hvilke kort *Nord* har igjen. *Nord* spiller bare en åtter om det er eneste lovlige kort som kan spilles.
 
