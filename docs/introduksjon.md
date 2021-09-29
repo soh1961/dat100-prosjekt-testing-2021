@@ -6,7 +6,7 @@ I vår versjon av spillet deltar det nøyaktig to spillere som vi kaller *Nord* 
 
 ![](assets/markdown-img-paste-20210916151224467.png)
 
-En video som viser eksempel på kjørsel av den ferdige spill-applikasjonen finnes via: https://www.youtube.com/watch?v=F2iQLU5wBXU
+En video som viser eksempel på kjøring av den ferdige spill-applikasjonen finnes via: https://www.youtube.com/watch?v=F2iQLU5wBXU
 
 ### Regler
 
