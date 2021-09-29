@@ -2,7 +2,7 @@
 
 Prosjektet handler om å implementation av kortspillet vri-åtter i Java med fokus på implementasjon av de sentrale datastrukturer og spill-logikk som ligger bak en spill-applikasjon.
 
-Dere vil få utlevert startkode i form av et Eclipse-prosjekt som skal danne utgangspunkt for ulike Java programmer. I prosjektet skal dere jobbe i grupper på 2-4 personer med å implementere de delene som mangler for at programmene blir komplett.
+Dere vil få utlevert startkode i form av et Eclipse-prosjekt som skal danne utgangspunkt for ulike Java programmer. I prosjektet skal dere jobbe i grupper på 2-4 personer med å implementere de delene som mangler for at programmene blir komplette.
 
 Videre vil dere få utlevert et Eclipse-prosjekt med en del enhetstester (unit-tests) som skal brukes til automatisk å teste koden som dere implementerer. Enhetstestene er ikke komplette tester, men tester at de meste grunnleggende ting fungerer. Det er **viktig** å bruke disse testene underveis.
 
@@ -41,7 +41,7 @@ https://github.com/dat100hib/dat100-prosjekt-testing-2021/blob/master/docs/intro
 
 ## Startkode og enhetstester
 
-Første steg for å komme igang med programmeringen er å laste ned et Eclipse-prosjekt med startkode og et Eclipse-prosjekt med enhetstester importere disse.
+Første steg for å komme igang med programmeringen er å laste ned et Eclipse-prosjekt med startkode og et Eclipse-prosjekt med enhetstester og importere disse.
 
 Dette kan gjøres som beskrevet her: https://github.com/dat100hib/dat100-prosjekt-testing-2021/blob/master/docs/startkode.md
 
